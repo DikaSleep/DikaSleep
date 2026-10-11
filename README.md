@@ -7,22 +7,29 @@
 
 
 
+
 <div align="center">
 
 <h2>Hi, I'm Dika</h2>
 
-<p>Programmer • Developer • Tech Enthusiast</p>
-<p>Always learning, always building.</p>
+<p>
+  A passionate programmer who loves building web applications,
+  exploring new technologies, and turning ideas into code.
+  <br>
+  Always learning, improving, and creating something new.
+</p>
 
-<a href="https://discord.gg/y2Xb3UHzb">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://instagram.com/britishscientist">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://tiktok.com/@console.handsome">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
+<p>
+  <a href="https://discord.gg/y2Xb3UHzb">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/britishscientist">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@console.handsome">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
 
 <h3>Tech Stack</h3>
 
@@ -36,11 +43,19 @@
 
 <h3>GitHub Stats</h3>
 
-<img width="390" src="https://github-readme-stats.shion.dev/api?username=DikaSleep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.shion.dev/api?username=DikaSleep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="46%" src="https://streak-stats.demolab.com/?user=DikaSleep&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<img width="390" src="https://streak-stats.demolab.com/?user=DikaSleep&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img width="350" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DikaSleep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-<img width="330" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DikaSleep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DikaSleep&color=5865F2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
+
