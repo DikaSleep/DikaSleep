@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.gif.gif"
+  <img src="image.gif"
        alt="DikaSleep Banner"
        width="100%"
        height="260">
