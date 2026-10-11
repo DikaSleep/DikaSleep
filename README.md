@@ -8,6 +8,7 @@
 
 
 
+
 <div align="center">
 
 <h2>Hi, I'm Dika</h2>
@@ -41,36 +42,20 @@
   <img src="https://img.shields.io/badge/Proto.io-161637?style=flat-square&logoColor=white" alt="Proto.io"/>
 </p>
 
-
-<h3 align="center">GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=DikaSleep&show_icons=true&theme=tokyonight&hide_border=true"
-        width="100%"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://streak-stats.demolab.com/?user=DikaSleep&theme=tokyonight&hide_border=true"
-        width="100%"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<h3>GitHub Stats</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=DikaSleep&layout=compact&theme=tokyonight&hide_border=true"
-    width="350"
-    alt="Top Languages"
-  />
+  <img width="46%" src="https://github-readme-stats.shion.dev/api?username=DikaSleep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="46%" src="https://streak-stats.demolab.com/?user=DikaSleep&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img width="350" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DikaSleep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DikaSleep&color=5865F2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
-
