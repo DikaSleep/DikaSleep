@@ -5,6 +5,8 @@
        height="260">
 </p>
 
+#  About Me:
+> Hello World! `<br><br>I'm a programmer who enjoys building things with code.<br><br> Code Enthusiast  <br> Always Learning, Always Building<br> Turning Coffee Into Code<br> Debugging by Night, Creating by Day<br><br>Stay curious. Keep coding. Never stop learning.
 
 
 ## 🌐 Socials:
