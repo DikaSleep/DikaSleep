@@ -54,8 +54,6 @@
   <img width="350" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DikaSleep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DikaSleep&color=5865F2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+
 
 </div>
